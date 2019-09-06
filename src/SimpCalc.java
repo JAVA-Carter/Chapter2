@@ -27,7 +27,6 @@ public class SimpCalc {
         total = entry1 + entry2;
         System.out.println(entry1 +" + " + entry2 + " = "+ total);
         total = entry1 * entry2;
-        System.out.println(Sys)
     }
 
 }
